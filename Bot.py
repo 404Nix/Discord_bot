@@ -416,4 +416,4 @@ async def setup():
 
 bot.loop.create_task(setup())
 keep_alive()
-bot.run("OTM5OTk5Nzg5NDY5MzAyODM1.YgBBBg.IJnNhw05CtKXN5Li3_jnOF17wAE")
+bot.run("YourBotToken")
