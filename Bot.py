@@ -98,7 +98,7 @@ hug_names = ["hugged you"]
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(status=discord.Status.online, activity=discord.Game("with Zenitsu"))
+    await bot.change_presence(status=discord.Status.online, activity=discord.Game("sheeesh"))
     print(f"{bot.user.name} is ready.")
 
 '''@bot.event
@@ -365,7 +365,7 @@ async def yo(ctx: commands.Context):
 
 @bot.command()
 async def gif(ctx,*,q="Nezuko"):
-    api_key="TwOuL3yltcQBuSmdrpJGJy7NXJCevy3j"
+    api_key="your_giphy_api_token"
     api_instance = giphy_client.DefaultApi()
     try: 
     # Search Endpoint
