@@ -1,1 +1,6 @@
-im lazy bro pls see code and u'll get everything :(
+Discord ver 1.7.3
+giphy_client 1.0.0
+pyNaCl 1.5.0
+animec 0.4.2
+pafy 0.5.5
+youtube_dl
