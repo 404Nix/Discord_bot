@@ -1,6 +1,8 @@
-Discord ver 1.7.3
-giphy_client 1.0.0
-pyNaCl 1.5.0
-animec 0.4.2
-pafy 0.5.5
-youtube_dl
+INSTALL THE FOLLOWING LIBRARIES
+
+Discord  : py -3 -m pip install -U discord.py
+giphy_client : pip install giphy_client
+pyNaCl : pip install pynacl
+animec : pip install animec
+pafy : pip install animec
+youtube_dl : pip install youtube_dl
